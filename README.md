@@ -4,7 +4,7 @@ Make sure you have golang installed, if you don't installed it [here](https://go
 
 Now that you have golang installed you can make sure you have [git](https://git-scm.com/downloads) installed and type `git clone https://github.com/Charged-Development/golang-periodic-table-lookup.git` into a cmd.
 
-Then in the cmd type `cd golang-periodic-table-lookup-master`
+Then in the cmd type `cd golang-periodic-table-lookup`
 
 Now in that same cmd type `go get github.com/stretchr/objx`
 
