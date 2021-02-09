@@ -6,8 +6,6 @@ Now that you have golang installed you can make sure you have [git](https://git-
 
 Then in the cmd type `cd golang-periodic-table-lookup`
 
-Now in that same cmd type `go get github.com/stretchr/objx`
-
 Now type in that same cmd `go run main.go`
 
 If you want this to be an exe type `go build main.go`
